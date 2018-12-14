@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ceostssoftae_ceo_660.wsgi:application
